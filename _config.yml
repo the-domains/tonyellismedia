@@ -1,17 +1,5 @@
 layout_spectrum: 0.9699248
 name: TonyEllisMedia
-typography_spectrum: 0.5564924
-color:
-  brandStrength: 0.6424958
-  saturation: 0.6997006
-  brandColors:
-    - '#BCA388'
-    - '#3A281E'
-    - '#E0D9CE'
-    - '#775D4B'
-    - '#BD0E14'
-  lightness: 0.7155187
-  rhythmicContrast: 0.1883451
 collections:
   - index:
       navigable: true
@@ -24,3 +12,15 @@ collections:
       number: 10
     permalink:
       path: '/:title/'
+color:
+  brandStrength: 0.6424958
+  lightness: 0.6686341
+  saturation: 0.4013491
+  rhythmicContrast: 0.2816189
+  brandColors:
+    - '#BCA388'
+    - '#3A281E'
+    - '#E0D9CE'
+    - '#775D4B'
+    - '#BD0E14'
+typography_spectrum: 0.5564924
