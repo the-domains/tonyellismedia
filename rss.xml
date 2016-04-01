@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[TonyEllisMedia]]></title>
         <description><![CDATA[TonyEllisMedia]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/tonyellismedia/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 01 Apr 2016 03:55:25 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 01 Apr 2016 03:57:13 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/tonyellismedia/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Waterfall photography by Tony Ellis]]></title>
+            <description><![CDATA[<article><h1>Waterfall photography by Tony Ellis</h1><p>Dropbox is a free service that lets you bring your photos, docs, and videos anywhere and share them easily. Never email yourself a file again!</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/15b50d3c611c51cc7b533462ff19619fe56cf8b6.jpg"></article>]]></description>
+            <link>https://www.dropbox.com/s/7ttnfmafljm3vk3/02081638.jpg?dl=0</link>
+            <guid isPermaLink="false">3d37f0ce-353d-464a-843c-c8f9775551d9</guid>
+            <pubDate>Fri, 01 Apr 2016 03:57:12 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Stream Movement]]></title>
             <description><![CDATA[<article><h1>Stream Movement</h1><p>Dropbox is a free service that lets you bring your photos, docs, and videos anywhere and share them easily. Never email yourself a file again!</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/bd1be8f1a0018b410fade947d54d809eb3d204b4.mp4"></article>]]></description>
-            <link>undefinedstream-movement/index.html</link>
+            <link>https://thegrid.ai/tonyellismedia/stream-movement/index.html</link>
             <guid isPermaLink="false">19e24201-bbe3-4578-9317-e93d951c4b3e</guid>
             <pubDate>Fri, 01 Apr 2016 03:55:00 GMT</pubDate>
         </item>
